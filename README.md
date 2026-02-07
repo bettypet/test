@@ -17,10 +17,9 @@
   <img src="https://i.imgur.com/A5P1sxz.png" width="600">
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=d6uz8uwut46i8dyz3nyrvmh88&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d6uz8uwut46i8dyz3nyrvmh88&cover_image=true&theme=spotify-embed&show_offline=true&background_color=302c27&interchange=false&profanity=false&mode=light&bar_color=756b5d&bar_color_cover=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d6uz8uwut46i8dyz3nyrvmh88&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=4e3a0e&bar_color_cover=false&mode=dark">
   </a>
-</p>
 
 <p align="center"> 
   <a href="https://bettypet.straw.page"> straw</a>
